@@ -32,7 +32,7 @@
         <profile>
             <id>dev</id>
             <properties>
-                <env>dev</env>
+                <env>test</env>
             </properties>
             <activation>
                 <activeByDefault>true</activeByDefault>

@@ -925,8 +925,8 @@ CREATE TABLE `upms_user` (
 -- ----------------------------
 -- Records of upms_user
 -- ----------------------------
-INSERT INTO `upms_user` VALUES ('1', 'admin', '3038D9CB63B3152A79B8153FB06C02F7', '66f1b370c660445a8657bf8bf1794486', '张恕征', '/resources/zheng-admin/images/avatar.jpg', '', '469741414@qq.com', '1', '0', '1');
-INSERT INTO `upms_user` VALUES ('2', 'test', '285C9762F5F9046F5893F752DFAF3476', 'd2d0d03310444ad388a8b290b0fe8564', '张恕征', '/resources/zheng-admin/images/avatar.jpg', '', '469741414@qq.com', '1', '0', '1493394720495');
+INSERT INTO `upms_user` VALUES ('1', 'admin', '3038D9CB63B3152A79B8153FB06C02F7', '66f1b370c660445a8657bf8bf1794486', 'whisperoy', '/resources/zheng-admin/images/whisperoy.jpg', '', '774538869@qq.com', '1', '0', '1');
+INSERT INTO `upms_user` VALUES ('2', 'test', '285C9762F5F9046F5893F752DFAF3476', 'd2d0d03310444ad388a8b290b0fe8564', 'test', '/resources/zheng-admin/images/avatar.jpg', '', '1021168647@qq.com', '1', '0', '1325697854');
 
 -- ----------------------------
 -- Table structure for upms_user_organization
